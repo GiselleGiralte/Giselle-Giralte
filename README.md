@@ -41,8 +41,18 @@ Ingeniera de Datos con experiencia en el sector bancario,apasionada por la optim
   </a>
  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>
   </a> 
-  
+
+  [![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)](https://www.scala-lang.org/) [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/) [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/) [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+
+
 </div>
 
+---
+### :hammer_and_wrench: Lenguajes y herramientas :
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gisellegiralte&hide_progress=true)
+
+
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bcamandone&hide_progress=true)
